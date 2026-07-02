@@ -1,0 +1,14 @@
+# Dependencies
+Login and Register/frontend/node_modules/
+Login and Register/backend/node_modules/
+
+# Environment files
+Login and Register/frontend/.env
+Login and Register/backend/.env
+
+# Build folders
+Login and Register/frontend/dist/
+Login and Register/backend/dist/
+
+# Logs
+*.log

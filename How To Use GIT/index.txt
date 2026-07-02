@@ -1,0 +1,11 @@
+
+#first of all make repository in github
+
+#then use this coommand 
+# 1. Sabse pehle apni GitHub repository ko clone karein 
+# (Yahan 'your-username' ki jagah apna GitHub username daalein)
+git clone https://github.com/your-username/90-days-challenge.git
+
+#agr parent folder mai hi changes krne hai to gitignore file ko parent folder mai rkhe
+
+#code changes push krne ki coommand
