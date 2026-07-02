@@ -9,3 +9,35 @@ git clone https://github.com/your-username/90-days-challenge.git
 #agr parent folder mai hi changes krne hai to gitignore file ko parent folder mai rkhe
 
 #code changes push krne ki coommand
+
+git add .
+git commit -m "final commit"
+git push
+
+#what is README.md
+README.md project ki documentation file hoti hai.
+
+Ye batati hai:
+
+Project kya hai
+Kaise install karna hai
+Kaise run karna hai
+Technologies kya use hui hain
+Features kya hain
+
+#.gitignore kya hoti hai?
+
+.gitignore ek configuration file hoti hai jo Git ko batati hai:
+
+"Kin files ya folders ko Git track nahi karega."
+
+jese nodemodule kyuki isme hazaro packages hote hai 
+jese .env file kyuki kisme sensitive data hota hai 
+
+isliye inko ignore kiya jata hai or .gitignore file mai 
+likh diya jata hai ki inko ignore krna hai 
+
+#Important notes
+.git ko parent folder mai isliye rkhte hai kyuki vo root foolder hota hai 
+or jo ki changes ke time pr sbse pehle isi ko scan krta hai 
+
